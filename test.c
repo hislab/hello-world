@@ -9,5 +9,5 @@ int calc2(int x) {
 }
 
 int main() {
-	printf("test¥n");
+	printf("test\n");
 }
